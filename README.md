@@ -8,4 +8,4 @@ there is no proper culling other than discarding cube surfaces that are not faci
 
 The camera can be controlled with mouse and W,A,S,D,C and V keys.
 
-After you've built the project, make sure that the Assets folder is in the same folder with the .exe files. If you only want to try out the demo without building yourself, you can get the build from [here](http://skaipio.kapsi.fi/releases/PudvoxDemo.zip).
+After you've built the project, make sure that the Assets folder is in the same folder with the .exe files. If you only want to try out the demo without building yourself, you can get the build from [here](http://skaipio.kapsi.fi/releases/PudvoxDemo.zip). There is also a [video](http://skaipio.kapsi.fi/videos/pudvox_demo.mp4) of the demo app.
