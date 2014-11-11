@@ -60,9 +60,9 @@ namespace Pudvox.Graphics3D {
             GL.BufferData(BufferTarget.ArrayBuffer, (IntPtr)voxelsByteSize, _blockPositions, BufferUsageHint.StaticDraw);
             
             _shaderProgram = ShaderManager.LoadShaderProgram(
-                "../Assets/Shaders/vs_rotating_cubes.glsl",
-                "../Assets/Shaders/fs_rotating_cubes.glsl",
-                "../Assets/Shaders/gs_rotating_cubes.glsl");
+                "Assets/Shaders/vs_rotating_cubes.glsl",
+                "Assets/Shaders/fs_rotating_cubes.glsl",
+                "Assets/Shaders/gs_rotating_cubes.glsl");
 
             if (_shaderProgram == 0)
                 Logger.Error("Failed to load voxel shader program.");
