@@ -8,4 +8,4 @@ there is no proper culling other than discarding cube surfaces that are not faci
 
 The camera can be controlled with mouse and W,A,S,D,C and V keys.
 
-When you build, make sure that the Assets folder is in the same folder with the .exe files.
+After you've built the project, make sure that the Assets folder is in the same folder with the .exe files.
